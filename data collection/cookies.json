@@ -1,0 +1,32 @@
+[
+  {
+      "name": "auth_token",
+      "value": "4b37f027aa860025c02899f572d0cb6994f2888f",
+      "domain": ".x.com",
+      "path": "/",
+      "secure": true,
+      "httpOnly": true,
+      "expiry": "2026-03-19T13:44:17.849Z",
+      "sameSite": "None"
+  },
+  {
+      "name": "ct0",
+      "value": "f86986a4ce28c953c89d10767b9e39adf910b9c31489cfca3f8c793fb7152cb215ebb1050abf53db9904e1a4b447b9c8b195bcfd9670d0159cf157c84c7336f5768b390248cc8b0be4d9dfb515163407",
+      "domain": ".x.com",
+      "path": "/",
+      "secure": true,
+      "httpOnly": false,
+      "expiry": "2026-03-19T13:44:18.144Z",
+      "sameSite": "Lax"
+  },
+  {
+      "name": "twid",
+      "value": "u%3D1825171960537513984",
+      "domain": ".x.com",
+      "path": "/",
+      "secure": false,
+      "httpOnly": false,
+      "expiry": "2026-02-12T13:47:08.164Z",
+      "sameSite": "None"
+  }
+]
