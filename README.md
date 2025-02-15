@@ -7,7 +7,7 @@ In today's fast-paced digital landscape, staying ahead of social media trends is
 1️⃣ **Data Collection** – Scraping real-time data from social media 📊  
 2️⃣ **Data Processing** – Cleaning and structuring data for analysis 🧹  
 3️⃣ **Trend Identification & Analysis** – Extracting viral topics using **NLP** 📈  
-4️⃣ **Text Generation** – Using **LLaMA 2** to generate engaging content ✍️ 
+4️⃣ **Text Generation** – Using **LLaMA 2** to generate engaging content ✍️                                                                                                                                          
 5️⃣ **Image Generation** – Creating AI-driven visuals with **Stable Diffusion** 🖼️  
 
 ## ⚙️ Tools & Frameworks  
