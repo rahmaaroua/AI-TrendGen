@@ -29,5 +29,4 @@ Our AI doesn’t just **analyze trends**—it **creates content that could go vi
 It’s like having a **digital strategist** and a **creative artist** in one package! 🎨💡  
 
 ## 📑 Detailed Report  
-📌 Check out our full **report & project repository** [here]([link-to-detailed-report](https://github.com/rahmaaroua/AI-TrendGen/blob/main/AI_Odyssey_Hackathon_report.pdf)) 📂🔗  
-
+📌 Check out our full **report & project repository** [here](https://github.com/rahmaaroua/AI-TrendGen/blob/main/AI_Odyssey_Hackathon_report.pdf) 📂🔗  
