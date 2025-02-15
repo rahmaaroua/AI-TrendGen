@@ -12,12 +12,9 @@ In today's fast-paced digital landscape, staying ahead of social media trends is
 
 ## ⚙️ Tools & Frameworks  
 🕵️ **Data Collection**: Selenium, Scrapy, Tweepy, Pytrends  
-🚀 **ETL Pipeline**: Google Vertex AI Pipelines  
 📊 **Trend Identification**: BERT, FinBERT, LLaMA, GPT-4 API, Hugging Face Transformers  
 📝 **Content Generation**: GPT-4, Gemini, Stable Diffusion, DALL·E, RunwayML, Synthesia  
-🌍 **AI Deployment**: Google Vertex AI, FastAPI, Flask  
-⏰ **Automation & Scheduling**: N8N, Zapier, Celery, Redis  
-🖥️ **Frontend Dashboard**: Streamlit, Gradio, React, Next.js  
+
 
 ## 👥 Team Members  
 This project was developed for the **AI Odyssey Hackathon**, organized by **Dione Protocol** by the team **DS Girls**:  
